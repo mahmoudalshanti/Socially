@@ -25,7 +25,7 @@ A social media application built with:
 
 | Technology                  | Purpose                          |
 |-----------------------------|----------------------------------|
-| Next.js 14                  | Full-stack React framework       |
+| Next.js                     | Full-stack React framework       |
 | Clerk                       | Authentication & user management |
 | Prisma                      | ORM for database operations      |
 | PostgreSQL                  | Relational database              |
@@ -36,6 +36,7 @@ A social media application built with:
 ### Prerequisites
 
 - Javascript
-- Node.js 18+
+- Node.js
 - PostgreSQL database
 - Clerk account
+
