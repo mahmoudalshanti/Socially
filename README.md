@@ -22,6 +22,7 @@ A social media application built with:
 - Create profiles, Share posts, Follow other users, Like, Comment
 - Real-time updates
 - Responsive design
+- Dark mode & Light mode
 
 ## 🛠️ Tech Stack
 
