@@ -29,8 +29,8 @@ A social media application built with:
 | Clerk                       | Authentication & user management |
 | Prisma                      | ORM for database operations      |
 | PostgreSQL                  | Relational database              |
-| Tailwind CSS                | Styling                          |
-| Server Actions By Next JS   | Data mutations                   |
+| Tailwind CSS & Shadcn UI    | Styling                          |
+| Server Actions By Next JS   | Data mutations                   | 
 
 
 ### Prerequisites
