@@ -5,6 +5,8 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![Image](https://github.com/user-attachments/assets/527d9243-4140-4033-a014-c6495a52adca)
+
 A social media application built with:
 
 - ⚡ Next.js 14 (App Router)
