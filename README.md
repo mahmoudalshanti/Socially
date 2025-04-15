@@ -17,7 +17,7 @@ A social media application built with:
 
 - User authentication (Sign up, Login, Profile management)
 - Create, read, update, and delete posts
-- Like and comment functionality
+- Create profiles, Share posts, Follow other users, Like, Comment
 - Real-time updates
 - Responsive design
 
