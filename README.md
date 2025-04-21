@@ -5,7 +5,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Image](https://github.com/user-attachments/assets/527d9243-4140-4033-a014-c6495a52adca)
+![Screenshot 2025-04-20 121847](https://github.com/user-attachments/assets/1ad07954-1e38-4987-afbb-5ee73e485326)
 
 A social media application built with:
 
